@@ -1,4 +1,4 @@
-# SearchEngine
+# Information Retrieval System
 
 Technology - Python 2.7
 Tools used : Pycharm
@@ -15,6 +15,8 @@ techniques like stopping, stemming and query expansion techniques like
 pseudo relevance feedback on the retrieval system. Use standard metrics
 like Precision, Recall, Mean Reciprocal Rank etc. to measure
 effectiveness of each model in the system.
+
+Provided: Set of 3204 text documents.
 
 Output:
 Reports with Top 100 document ids for each query using each information
